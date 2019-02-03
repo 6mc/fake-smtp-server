@@ -1,0 +1,1 @@
+,ftp.instagram.com,127.0.0.6:22,www.google.com,127.0.0.5:922,smtp.alican.com,127.0.0.4:9922,smtp.mehmetcan.com,127.0.0.3:9992
